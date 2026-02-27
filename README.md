@@ -6,7 +6,7 @@ A functional 32-bit operating system kernel built from scratch in C and x86 Asse
 
 ## Demo
 
-> *(QEMU boot screen followed by shell prompt with supported commands)*
+> *(demo)*
 
 
 ---
