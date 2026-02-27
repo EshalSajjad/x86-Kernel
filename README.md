@@ -2,8 +2,6 @@
 
 A functional 32-bit operating system kernel built from scratch in C and x86 Assembly, running on emulated x86 hardware via QEMU. Implements the core subsystems of a Unix-style OS — from bare-metal hardware interaction up through a working shell.
 
-> No starter code was used for the implementation. The project was built incrementally across four stages, each layer depending on the correctness of the one below it.
-
 ---
 
 ## Demo
